@@ -31255,7 +31255,6 @@ platecompany.org
 platoshop.ir
 play.doostihaa.com
 play.doostihaa.net
-play.googleapis.com
 play.javantv.net
 play.madgames.ir
 play.pod.ir
@@ -44447,3 +44446,5 @@ zysc.ir
 zytoon.ir
 zzvideo.ir
 zzzagros.com
+web.bale.ai
+bpi.ir
